@@ -8,7 +8,6 @@
 
 Bu proje, deprem gibi kriz anlarında sosyal medyada yayılan haberlerin nasıl dağıldığını incelemek amacıyla hazırlanmıştır. Projede sahte haberlerin yayılımı, bot benzeri hesap davranışları, hashtag kullanımı ve kullanıcılar arasındaki haber yayılım ağı analiz edilmiştir.
 
-Proje, Veri Bilimi ve Analitiği bölümü 1. sınıf seviyesine uygun olacak şekilde hazırlanmıştır.
 
 ## Veri Seti Hakkında Önemli Not
 
