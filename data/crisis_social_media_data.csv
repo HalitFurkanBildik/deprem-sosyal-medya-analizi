@@ -1,0 +1,101 @@
+﻿post_id,user_id,post_text,created_at,like_count,repost_count,hashtag,followers_count,following_count,account_age_days,source_user,target_user,is_fake_news,bot_score,bot_suspect
+1,user_8,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 05:01:00,17,174,#bilgilendirme,38,700,2,user_19,user_8,0,4,1
+2,user_28,Resmi açıklama yok ama çok büyük hasar olduğu söyleniyor.,2026-02-06 04:30:00,243,27,#dogrulama,314,125,210,user_18,user_28,1,0,0
+3,user_13,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 10:14:00,289,57,#sondakika,3506,255,2312,user_14,user_13,0,0,0
+4,user_22,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 05:06:00,13,232,#afet,22,670,18,user_12,user_22,0,4,1
+5,user_23,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 04:57:00,554,58,#afet,425,777,1163,user_18,user_23,0,1,0
+6,user_19,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 06:45:00,8,158,#yardim,49,1041,41,user_3,user_19,0,4,1
+7,user_15,"Acil yardım bekleniyor, hiçbir kurum bölgeye ulaşmadı deniyor.",2026-02-06 07:18:00,378,58,#guvenlibilgi,3183,314,493,user_7,user_15,1,0,0
+8,user_18,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 07:31:00,255,93,#kriz,1471,576,372,user_9,user_18,0,1,0
+9,user_15,Uzmanlar doğrulanmamış bilgilerin paylaşılmaması gerektiğini belirtti.,2026-02-06 06:34:00,37,105,#afet,528,264,1408,user_3,user_15,0,1,0
+10,user_14,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 05:30:00,516,83,#kriz,2647,247,2403,user_9,user_14,0,0,0
+11,user_9,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 07:22:00,443,33,#afet,4668,581,1090,user_8,user_9,0,1,0
+12,user_9,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 09:38:00,53,96,#sondakika,4112,123,2167,user_6,user_9,0,0,0
+13,user_28,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 06:25:00,76,255,#bilgilendirme,11,844,39,user_18,user_28,0,3,1
+14,user_1,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 07:59:00,353,34,#enkaz,4468,798,549,user_6,user_1,0,1,0
+15,user_30,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 09:37:00,187,97,#acilyardim,2227,542,93,user_10,user_30,0,1,0
+16,user_33,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 04:17:00,170,97,#bilgilendirme,1322,412,894,user_20,user_33,0,0,0
+17,user_21,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 06:20:00,39,245,#deprem,5,564,32,user_19,user_21,0,3,1
+18,user_6,"Acil yardım bekleniyor, hiçbir kurum bölgeye ulaşmadı deniyor.",2026-02-06 08:58:00,16,332,#kriz,65,520,6,user_6,user_6,1,3,1
+19,user_17,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 07:41:00,557,118,#enkaz,3536,246,2241,user_12,user_17,0,1,0
+20,user_29,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 04:27:00,235,31,#guvenlibilgi,3768,153,2199,user_19,user_29,1,0,0
+21,user_15,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 04:33:00,65,9,#acilyardim,1874,37,2490,user_11,user_15,0,0,0
+22,user_5,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 09:09:00,27,308,#sondakika,33,735,33,user_19,user_5,0,3,1
+23,user_31,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 09:54:00,199,52,#acilyardim,3944,856,1075,user_14,user_31,0,1,0
+24,user_23,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 07:43:00,60,110,#deprem,3437,508,1814,user_11,user_23,0,2,0
+25,user_7,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 05:50:00,464,68,#afet,1639,224,1098,user_9,user_7,0,0,0
+26,user_30,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 04:24:00,12,341,#bilgilendirme,12,903,16,user_3,user_30,1,4,1
+27,user_16,Şehirde tüm yollar kapandı bilgisi hızla yayılıyor.,2026-02-06 05:41:00,27,306,#deprem,55,947,11,user_13,user_16,1,3,1
+28,user_1,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 05:36:00,54,206,#kriz,36,915,25,user_7,user_1,0,4,1
+29,user_19,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 04:46:00,560,94,#guvenlibilgi,549,623,971,user_2,user_19,0,1,0
+30,user_31,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 04:52:00,525,7,#sondakika,4420,191,2139,user_20,user_31,0,0,0
+31,user_5,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 09:21:00,588,120,#dogrulama,3377,152,1043,user_2,user_5,0,1,0
+32,user_6,"Büyük deprem tekrar olacak iddiası yayılıyor, hemen paylaşın!",2026-02-06 09:59:00,328,66,#yardim,4851,608,1797,user_11,user_6,1,1,0
+33,user_16,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 04:54:00,312,85,#guvenlibilgi,3312,164,1167,user_1,user_16,0,0,0
+34,user_30,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 06:32:00,68,97,#bilgilendirme,75,552,40,user_5,user_30,0,1,0
+35,user_23,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 10:17:00,20,205,#bilgilendirme,34,828,5,user_10,user_23,0,4,1
+36,user_34,"Acil yardım bekleniyor, hiçbir kurum bölgeye ulaşmadı deniyor.",2026-02-06 05:16:00,111,119,#enkaz,4613,336,112,user_4,user_34,1,1,0
+37,user_10,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 08:35:00,43,167,#enkaz,39,1069,18,user_16,user_10,0,4,1
+38,user_17,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 07:07:00,35,276,#deprem,14,1099,4,user_5,user_17,1,4,1
+39,user_17,Resmi açıklama yok ama çok büyük hasar olduğu söyleniyor.,2026-02-06 05:14:00,442,90,#deprem,3689,594,741,user_3,user_17,1,1,0
+40,user_10,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 05:22:00,570,47,#afet,365,884,2314,user_2,user_10,0,1,0
+41,user_20,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 09:03:00,260,26,#guvenlibilgi,396,396,1573,user_14,user_20,1,0,0
+42,user_10,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 05:48:00,186,103,#deprem,1401,849,1049,user_11,user_10,0,2,0
+43,user_27,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 08:17:00,115,100,#deprem,2255,193,1096,user_8,user_27,0,0,0
+44,user_13,"Acil yardım bekleniyor, hiçbir kurum bölgeye ulaşmadı deniyor.",2026-02-06 09:54:00,238,105,#deprem,2934,342,1965,user_7,user_13,1,1,0
+45,user_26,"Büyük deprem tekrar olacak iddiası yayılıyor, hemen paylaşın!",2026-02-06 07:41:00,290,98,#bilgilendirme,2352,101,1424,user_18,user_26,1,0,0
+46,user_22,Uzmanlar doğrulanmamış bilgilerin paylaşılmaması gerektiğini belirtti.,2026-02-06 05:12:00,599,22,#deprem,1014,297,193,user_20,user_22,0,0,0
+47,user_28,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 09:12:00,528,77,#afet,2639,476,1495,user_7,user_28,1,0,0
+48,user_17,"Acil yardım bekleniyor, hiçbir kurum bölgeye ulaşmadı deniyor.",2026-02-06 07:57:00,556,66,#guvenlibilgi,3642,31,261,user_3,user_17,1,0,0
+49,user_22,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 09:58:00,312,115,#enkaz,1090,767,1365,user_14,user_22,0,2,0
+50,user_21,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 10:03:00,201,16,#afet,2492,597,1728,user_6,user_21,0,1,0
+51,user_20,Uzmanlar doğrulanmamış bilgilerin paylaşılmaması gerektiğini belirtti.,2026-02-06 07:57:00,316,0,#yardim,4558,883,1743,user_19,user_20,0,1,0
+52,user_21,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 05:43:00,223,86,#kriz,3689,482,1984,user_3,user_21,0,0,0
+53,user_19,"Büyük deprem tekrar olacak iddiası yayılıyor, hemen paylaşın!",2026-02-06 05:58:00,245,104,#yardim,2815,125,2191,user_5,user_19,1,1,0
+54,user_2,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 05:56:00,58,97,#dogrulama,34,936,3,user_13,user_2,0,3,1
+55,user_32,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 06:09:00,10,83,#afet,2068,181,1716,user_6,user_32,0,0,0
+56,user_34,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 08:14:00,129,31,#sondakika,481,600,1982,user_17,user_34,0,1,0
+57,user_21,"Acil yardım bekleniyor, hiçbir kurum bölgeye ulaşmadı deniyor.",2026-02-06 08:07:00,57,340,#kriz,67,886,29,user_9,user_21,1,3,1
+58,user_16,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 08:02:00,80,308,#enkaz,38,983,41,user_3,user_16,0,3,1
+59,user_19,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 05:34:00,558,40,#sondakika,2295,373,1040,user_8,user_19,1,0,0
+60,user_25,"Büyük deprem tekrar olacak iddiası yayılıyor, hemen paylaşın!",2026-02-06 08:15:00,422,53,#bilgilendirme,1822,95,705,user_14,user_25,1,0,0
+61,user_4,Şehirde tüm yollar kapandı bilgisi hızla yayılıyor.,2026-02-06 04:20:00,73,70,#kriz,56,848,14,user_12,user_4,1,2,0
+62,user_20,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 08:26:00,564,95,#yardim,3502,581,1677,user_8,user_20,0,1,0
+63,user_18,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 08:16:00,349,49,#sondakika,4048,59,1865,user_5,user_18,0,0,0
+64,user_35,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 05:26:00,3,348,#afet,53,1056,2,user_15,user_35,1,4,1
+65,user_12,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 07:09:00,221,41,#guvenlibilgi,2201,418,285,user_13,user_12,0,0,0
+66,user_18,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 04:43:00,486,10,#bilgilendirme,2136,884,1806,user_12,user_18,0,1,0
+67,user_15,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 09:35:00,258,3,#deprem,399,802,361,user_5,user_15,0,1,0
+68,user_16,"Acil yardım bekleniyor, hiçbir kurum bölgeye ulaşmadı deniyor.",2026-02-06 10:15:00,582,14,#kriz,3949,715,597,user_9,user_16,1,1,0
+69,user_24,Uzmanlar doğrulanmamış bilgilerin paylaşılmaması gerektiğini belirtti.,2026-02-06 09:13:00,172,104,#acilyardim,1008,826,767,user_1,user_24,0,2,0
+70,user_20,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 05:09:00,9,161,#yardim,51,856,37,user_10,user_20,0,3,1
+71,user_8,"Büyük deprem tekrar olacak iddiası yayılıyor, hemen paylaşın!",2026-02-06 08:36:00,443,68,#acilyardim,406,385,2398,user_11,user_8,1,0,0
+72,user_1,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 07:59:00,375,55,#sondakika,4085,138,1800,user_6,user_1,0,0,0
+73,user_34,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 06:34:00,481,61,#dogrulama,4478,823,1186,user_11,user_34,0,1,0
+74,user_16,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 09:59:00,480,31,#dogrulama,2354,491,434,user_13,user_16,0,0,0
+75,user_22,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 06:29:00,504,23,#guvenlibilgi,4119,362,197,user_11,user_22,0,0,0
+76,user_18,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 07:45:00,200,66,#yardim,4623,40,1211,user_16,user_18,1,0,0
+77,user_16,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 06:10:00,22,101,#enkaz,4090,488,2030,user_13,user_16,0,1,0
+78,user_16,Resmi açıklama yok ama çok büyük hasar olduğu söyleniyor.,2026-02-06 07:54:00,571,60,#guvenlibilgi,4834,407,1334,user_18,user_16,1,0,0
+79,user_22,"Acil yardım bekleniyor, hiçbir kurum bölgeye ulaşmadı deniyor.",2026-02-06 05:55:00,32,216,#acilyardim,61,727,23,user_11,user_22,1,3,1
+80,user_8,Uzmanlar doğrulanmamış bilgilerin paylaşılmaması gerektiğini belirtti.,2026-02-06 08:45:00,61,170,#dogrulama,26,646,35,user_20,user_8,0,3,1
+81,user_19,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 04:24:00,374,29,#enkaz,1660,333,491,user_18,user_19,0,0,0
+82,user_9,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 05:09:00,304,70,#kriz,442,85,1203,user_1,user_9,0,0,0
+83,user_19,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 08:21:00,23,234,#enkaz,64,901,31,user_4,user_19,0,2,0
+84,user_5,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 09:05:00,59,73,#sondakika,4098,105,1721,user_10,user_5,0,0,0
+85,user_6,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 09:33:00,431,97,#dogrulama,1040,601,1096,user_8,user_6,0,1,0
+86,user_34,"Büyük deprem tekrar olacak iddiası yayılıyor, hemen paylaşın!",2026-02-06 09:34:00,444,38,#dogrulama,3760,483,1638,user_2,user_34,1,0,0
+87,user_7,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 05:45:00,88,84,#yardim,1798,300,931,user_18,user_7,0,0,0
+88,user_5,Uzmanlar doğrulanmamış bilgilerin paylaşılmaması gerektiğini belirtti.,2026-02-06 06:15:00,486,57,#deprem,91,448,721,user_10,user_5,0,0,0
+89,user_19,Resmi açıklama yok ama çok büyük hasar olduğu söyleniyor.,2026-02-06 07:54:00,275,29,#yardim,653,733,1939,user_4,user_19,1,1,0
+90,user_35,"SON DAKIKA herkes paylaşsın, baraj patladı iddiası var!",2026-02-06 05:41:00,150,105,#deprem,1290,302,1000,user_10,user_35,1,1,0
+91,user_19,"Belediye, güvenli toplanma alanlarını duyurdu.",2026-02-06 08:33:00,316,88,#enkaz,1088,509,1878,user_18,user_19,0,1,0
+92,user_32,"Büyük deprem tekrar olacak iddiası yayılıyor, hemen paylaşın!",2026-02-06 06:25:00,55,80,#dogrulama,13,1062,29,user_1,user_32,1,3,1
+93,user_6,"Kızılay, kan bağışı ve yardım merkezleri hakkında bilgi verdi.",2026-02-06 05:46:00,280,2,#deprem,4782,631,1017,user_16,user_6,0,1,0
+94,user_34,Şehirde tüm yollar kapandı bilgisi hızla yayılıyor.,2026-02-06 08:17:00,451,74,#acilyardim,2348,215,1891,user_12,user_34,1,0,0
+95,user_27,Uzmanlar doğrulanmamış bilgilerin paylaşılmaması gerektiğini belirtti.,2026-02-06 10:12:00,169,13,#afet,2700,716,1445,user_16,user_27,0,1,0
+96,user_19,AFAD tarafından yapılan açıklamaya göre ekipler bölgede çalışıyor.,2026-02-06 06:26:00,58,78,#guvenlibilgi,54,1013,43,user_11,user_19,0,1,0
+97,user_8,Şehirde tüm yollar kapandı bilgisi hızla yayılıyor.,2026-02-06 04:44:00,560,0,#afet,4285,874,1735,user_7,user_8,1,1,0
+98,user_34,"Resmi kaynaklar, yardım noktalarının listesini paylaştı.",2026-02-06 08:58:00,57,56,#enkaz,4153,670,1561,user_5,user_34,0,1,0
+99,user_19,Resmi açıklama yok ama çok büyük hasar olduğu söyleniyor.,2026-02-06 05:38:00,80,74,#yardim,65,574,29,user_10,user_19,1,2,0
+100,user_1,Şehirde tüm yollar kapandı bilgisi hızla yayılıyor.,2026-02-06 09:48:00,14,175,#acilyardim,55,545,36,user_5,user_1,1,2,0
